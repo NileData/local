@@ -1,0 +1,3 @@
+# No additional pip packages needed.
+# PySpark is provided by the apache/spark-py base image.
+# The sidecar uses only Python stdlib (http.server, json, threading).
